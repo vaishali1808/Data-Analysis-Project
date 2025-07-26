@@ -74,4 +74,4 @@ Helped stakeholders focus on improving inventory planning and reducing supply ch
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/vaishali1808/Data-Analysis-Project/blob/main/Screenshot%202025-07-26%20145330.png)
