@@ -3,9 +3,21 @@
 ### 1.	End-to-End Sales and Supply Analysis Project
 A concise, descriptive name for the dashboard.
 Example: 
-❄️ Snowy Analytics: Global Ski Resort Insights Dashboard
-A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+This Power BI project focuses on visualizing key business metrics for supply chain and financial performance analysis.
+It provides clear insights into:
 
+📦 Average Demand vs Availability per Day
+
+📉 Total Supply Shortage
+
+💰 Total Profit and Total Loss
+
+🔻 Average Daily Loss
+
+Tools Used: Power BI, Excel
+Key Skills: Data cleaning, DAX measures, KPI visualization, interactive filtering
+
+This dashboard enables better business decision-making by highlighting areas of loss, shortage, and profit trends.
 ### 2.	Short Description / Purpose
 1–2 sentences explaining what the dashboard does and why it exists.
 
