@@ -1,6 +1,6 @@
-# end to end
+# End-to-End Sales and Supply Analysis Project
 ## Recommended Structure and Order
-### 1.	Project Title / Headline
+### 1.	End-to-End Sales and Supply Analysis Project
 A concise, descriptive name for the dashboard.
 Example: 
 ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard
