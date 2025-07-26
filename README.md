@@ -73,5 +73,4 @@ Pinpointed key products contributing to the highest loss margins.
 Helped stakeholders focus on improving inventory planning and reducing supply chain delays, improving profitability over time.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/vaishali1808/Data-Analysis-Project/blob/main/Screenshot%202025-07-26%20145330.png)
